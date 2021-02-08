@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Architecture
+
+![alt text](https://github.com/VPAravind/react-video-streaming-app/blob/master/react-stream.PNG)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
